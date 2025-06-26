@@ -57,5 +57,9 @@ Make sure to upload the dataset manually to your Google Colab environment or con
 
 ---
 
-## 📂 Folder Structure
+## ScreenShots
+![task day 3](https://github.com/user-attachments/assets/d125ec9c-8528-4f01-b838-c4a80169e66d)
+
+
+
 
